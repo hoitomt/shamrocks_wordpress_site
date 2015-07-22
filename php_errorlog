@@ -1,0 +1,3 @@
+[21-Jul-2015 04:07:30 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hoitomts/public_html/shamrocks/wp-content/plugins/shamrocks-plugin/shamrocks-plugin.php on line 16
+[21-Jul-2015 04:40:16 UTC] PHP Fatal error:  Class 'shamrocks\siteplugin\WP_Query' not found in /home/hoitomts/public_html/shamrocks/wp-content/plugins/shamrocks-plugin/shamrocks-plugin.php on line 10
+[22-Jul-2015 04:28:49 CST6CDT] PHP Warning:  Module 'memcached' already loaded in Unknown on line 0
